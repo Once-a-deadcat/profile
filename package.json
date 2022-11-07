@@ -3,13 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@react-three/drei": "^9.40.0",
+    "@react-three/fiber": "^8.9.1",
     "drei": "^0.0.60",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-scripts": "3.4.1",
     "react-spring": "^8.0.27",
     "react-three-fiber": "^4.2.12",
-    "three": "^0.118.3"
+    "three": "^0.146.0"
   },
   "scripts": {
     "start": "react-scripts start",
