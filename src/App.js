@@ -86,8 +86,8 @@ export default function App() {
       <div className="layer" />
       <Loading />
       <a href="https://github.com/catgolem" className="top-left" children="Github" />
-      <a href="https://twitter.com/home" className="top-right" children="Twitter" />
-      <a href="https://github.com/drcmda/react-three-fiber" className="bottom-left" children="+ react-three-fiber" />
+      <a href="https://twitter.com/catgolem" className="top-right" children="Twitter" />
+      <a href="https://zenn.dev/imcat" className="bottom-left" children="+ writing articles" />
     </>
   )
 }
