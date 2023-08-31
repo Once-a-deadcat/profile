@@ -52,8 +52,6 @@ export default function App() {
       <div className="bg" />
       <h1>
         Hello
-        <br />
-        <span>Good Friends.</span>
       </h1>
       <Canvas shadowMap camera={{ position: [0, 0, 85] }}>
         <ambientLight intensity={10} />
