@@ -83,9 +83,9 @@ export default function App() {
       </Canvas>
       <div className="layer" />
       <Loading />
-      <a href="https://github.com/Once-a-deadcat" className="top-left" children="Github" />
-      <a href="https://twitter.com/kugi_nari" className="top-right" children="Twitter" />
-      <a href="https://qiita.com/cagorogoro994" className="bottom-left" children="+ writing articles" />
+      <a href="https://github.com/imcat0131" className="top-left" children="Github" />
+      <a href="https://twitter.com/imcat0131" className="top-right" children="Twitter" />
+      <a href="https://qiita.com/ImCat" className="bottom-left" children="+ writing articles" />
     </>
   )
 }
